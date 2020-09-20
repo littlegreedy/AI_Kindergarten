@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://rawgit.com/mauricius/vue-draggable-resizable/v1/docs/resources/logo.png" alt="logo"></p>
+<p align="center"><img src="https://s3.amazonaws.com/keras.io/img/keras-logo-2018-large-1200.png" alt="logo"></p>
 <h1 align="center">AI Kindergarten V1.0</h1>
 
 
