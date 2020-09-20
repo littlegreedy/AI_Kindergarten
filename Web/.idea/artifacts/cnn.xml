@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="cnn">
+    <output-path>$PROJECT_DIR$/classes/artifacts/cnn</output-path>
+    <root id="archive" name="cnn.war">
+      <element id="artifact" artifact-name="ssms:war exploded" />
+    </root>
+  </artifact>
+</component>
