@@ -2,6 +2,8 @@
 <p align="center"><img src="https://s3.amazonaws.com/keras.io/img/keras-logo-2018-large-1200.png" alt="logo"></p>
 <h1 align="center">AI Kindergarten V1.0</h1>
 
+Monitoring the emotional problem of children based on the basic unit of teaching classes. A system only relies on advanced means of Keras convolution neural network
+
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 
